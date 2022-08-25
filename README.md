@@ -9,4 +9,5 @@ This project also provided an opportunity to practice GeoJSON integration.
 ### Future Outlook
 This project will most likely be revisited to test different marker styles, alternative icons, and color schemes.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------
 To view this project directly, Click <a href="https://jibang92.github.io/Profile/realTimeBusTracker/mapAnimation.html">HERE</a>
