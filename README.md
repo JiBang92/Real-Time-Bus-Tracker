@@ -6,13 +6,14 @@ In this project, we implement HTML, CSS, and Javascript to generate a map that d
 <a href="https://www.mapbox.com/">MapBox</a> and a custom pointer that travels through 12 different points on the map.
 
 This project also provided an opportunity to practice GeoJSON integration.
-<br>
-<br>
+### How To
+Simply click "Show Stops Between MIT and Harvard" and the marker will navigate through 12 stops every second.<br>
+You can zoom in or out with the scroll wheel and also move the map by the holding left mouse button and dragging the cursor.
 ### Future Outlook
 This project will most likely be revisited to test different marker styles, alternative icons, and color schemes.
 <br>
 <br>
-To view this project directly, Click <a href="https://jibang92.github.io/Profile/realTimeBusTracker/mapAnimation.html">HERE</a>
+<b> --> To view this project directly, Click <a href="https://jibang92.github.io/Profile/realTimeBusTracker/mapAnimation.html">HERE</a></b>
 <br>
 <br>
 <br>
