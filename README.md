@@ -4,8 +4,10 @@
 ### Description
 In this project, we implement HTML, CSS, and Javascript to generate a map that display the general area around MIT using 
 <a href="https://www.mapbox.com/">MapBox</a> and a custom pointer that travels through 12 different points on the map.
-This project also provided an opportunity to practice GeoJSON integration.
 
+This project also provided an opportunity to practice GeoJSON integration.
+<br>
+<br>
 ### Future Outlook
 This project will most likely be revisited to test different marker styles, alternative icons, and color schemes.
 
